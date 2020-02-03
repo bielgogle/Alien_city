@@ -1,0 +1,1 @@
+Falha corrigida - Aplicação do scipt de dano da lava.
